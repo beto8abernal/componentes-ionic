@@ -94,7 +94,22 @@
         "redirectTo": "/search"
     },
     {
-        "icon": "headset-outline",
+        "icon": "albums-outline",
+        "name": "Slides",
+        "redirectTo": "/slides"
+    },
+    {
+        "icon": "cog-outline",
+        "name": "tabs",
+        "redirectTo": "/tabs"
+    },
+    {
+        "icon": "pricetag-outline",
+        "name": "toast",
+        "redirectTo": "/toast"
+    },
+    {
+        "icon": "copy-outline",
         "name": "Segment",
         "redirectTo": "/segment"
     }
